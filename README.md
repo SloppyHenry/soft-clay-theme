@@ -93,3 +93,7 @@ Measured from a reference image, then checked rather than eyeballed:
   default blue. Many themes miss this.
 
 If you change the accents, re-check them against your card colour.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
